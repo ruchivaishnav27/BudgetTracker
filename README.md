@@ -1,12 +1,12 @@
-# BudgetTracker
+# Track My Budget
 
 ## Description
 
-This application allows one to keep track of their expenses using MongoDB.  No challenges were faced in creating this application.  In the future, I would like to make this application look a little more attractive.
+This application allows one to keep track of their deposits and withdrawls using MongoDB.  No challenges were faced in creating this application.  In the future, I would like to make this application look a little more attractive.
 
 ## Installation
 
-To use this application by clicking on the live link: 
+To use this application click here: 
 
 ## Usage
 
