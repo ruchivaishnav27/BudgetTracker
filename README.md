@@ -6,7 +6,7 @@ This application allows one to keep track of their deposits and withdrawls using
 
 ## Installation
 
-To use this application click here: 
+To use this application click here: https://ruchivaishnav27.github.io/BudgetTracker/
 
 ## Usage
 
